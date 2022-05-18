@@ -1,0 +1,23 @@
+.hero-container{
+  display:flex;
+  flex-flow: row wrap;
+  padding:7rem 0rem 3rem 10rem;
+  gap:1.5rem;
+}
+
+.hero-small{
+  border-left: solid 2px;
+  padding: 0.5rem 1rem;
+}
+
+
+.hero-head{
+  padding:0rem 5rem 0rem 0rem;
+}
+
+.hero-img{
+ width: 45rem;
+ height:35rem;
+ padding-right: 12rem;
+ margin: 2rem 0rem;
+}

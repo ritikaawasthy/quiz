@@ -1,0 +1,28 @@
+html{
+  --primary-color: #FCC822;
+  --secondary-color: #333333;
+  --grey-li: #5C5C5C;
+  --grey-xli: #AFAFAC;
+  --white: white;
+  --red: #5C5C5C;
+  --green: ##16A02D;
+}
+
+.primary{
+  color: var(--primary-color);
+}
+.primary-bg{
+  background-color: var(--primary-color);
+}
+
+.secondary{
+  color: var(--secondary-color);
+}
+
+.grey{
+  color: var(--grey-li);
+}
+
+.white{
+  color: var(--white);
+}

@@ -1,0 +1,8 @@
+.navbar{
+  padding:2rem 4rem 0.5rem 4rem;
+}
+
+.nav-line{
+  border: 0.5px solid var(--grey-li);
+  width:95%;
+}
